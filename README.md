@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 ﻿# Article Topic
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg)](#contributors)
