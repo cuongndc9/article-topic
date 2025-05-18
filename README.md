@@ -38,4 +38,3 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
-<!-- INSPIRATIONAL_QUOTE_START -->\nBe a lifelong learner, not a know-it-all.\n🦖\n<!-- INSPIRATIONAL_QUOTE_END -->
