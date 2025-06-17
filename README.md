@@ -40,5 +40,5 @@ MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+> "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 <!-- INSPIRATIONAL_QUOTE_END -->
